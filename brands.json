@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "slug": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "id": 3,
+      "name": "Dell",
+      "slug": "dell"
+    }
+  ]
+}

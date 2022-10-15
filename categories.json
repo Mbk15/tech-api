@@ -1,0 +1,200 @@
+{
+  "data": [
+   
+    {
+      "id": 1,
+      "name": "Phones & Tablets",
+      "slug": "phone-tablets",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/collection_2.jpg",
+        "original": "/assets/images/category/collection_2.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Apple ",
+          "slug": "Apple iphone"
+        },
+        {
+          "id": 2,
+          "name": "Samsung",
+          "slug": "Samsung"
+        },
+        {
+          "id": 3,
+          "name": "Ipad Pro",
+          "slug": "ipad Pro"
+        },
+        {
+          "id": 4,
+          "name": "Google Pixel",
+          "slug": "google pixel"
+        },
+        {
+          "id": 5,
+          "name": "Nokia ",
+          "slug": "nokia"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Laptops & Chargers",
+      "slug": "Laptop",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-2.jpg",
+        "original": "/assets/images/products/p-2.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "MacBook",
+          "slug": "macbook"
+        },
+        {
+          "id": 2,
+          "name": "Dell",
+          "slug": "dell"
+        },
+        {
+          "id": 3,
+          "name": "Hp",
+          "slug": "hp"
+        },
+        {
+          "id": 4,
+          "name": "Asus",
+          "slug": "asus"
+        },
+        {
+          "id": 5,
+          "name": "ChromeBook",
+          "slug": "chromebook"
+        }
+      ]
+
+    },
+    
+    {
+      "id": 3,
+      "name": "TV & Video",
+      "slug": "tv-video",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/collection_5.jpg",
+        "original": "/assets/images/category/collection_5.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Toshiba",
+          "slug": "toshiba"
+        },
+        {
+          "id": 2,
+          "name": "Xiaomi Mi",
+          "slug": "xiaomi mi "
+        },
+        {
+          "id": 3,
+          "name": "Panasonic",
+          "slug": "panasonic"
+        },
+        {
+          "id": 4,
+          "name": "LG",
+          "slug": "lg"
+        },
+        {
+          "id": 5,
+          "name": "Samsung",
+          "slug": "sansung"
+        }
+      ]
+    },
+    
+
+    {
+      "id": 4,
+      "name": "Top 5 Offers",
+      "slug": "top-offers",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-3-1.jpg",
+        "original": "/assets/images/products/p-3-1.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "IPhone 12 Pro max ",
+          "slug": "iphone-12"
+        },
+        {
+          "id": 2,
+          "name": "MacBook Pro M1 Chip 13.3" ,
+          "slug": "macbook" 
+        },
+        {
+          "id": 3,
+          "name": "Apple MAGIC MOUSE 2" ,
+          "slug": "magic-mouse"
+        },
+        {
+          "id": 4,
+          "name": " IPAD MINI 6,(SPACEGREY)" ,
+          "slug": "ipad"
+        },
+        {
+          "id": 5,
+          "name": "MacBook Air 2015" ,
+          "slug": "Macbook Air"
+        },
+         {
+          "id": 7,
+          "name": "Samsung S22 Ultra" ,
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Accessories",
+      "slug": "accessories",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-9-1.jpg",
+        "original": "/assets/images/products/p-9-1.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Apple iwatch",
+          "slug": "apple watch"
+        },
+        {
+          "id": 2,
+          "name": "Apple earpod",
+          "slug": "apple earpod"
+        },
+        {
+          "id": 3,
+          "name": "Sony Headset",
+          "slug": "sony Headset"
+        },
+         {
+          "id": 4,
+          "name": "Oraimo Stereo Speaker",
+          "slug": "oraimo-speaker"
+        },
+         {
+          "id": 5,
+          "name": "Casio Series Watch",
+          "slug": "casio-watch"
+        }
+      ]
+    }
+   
+  ]
+}
